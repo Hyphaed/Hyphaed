@@ -1,4 +1,4 @@
-![hi there!](hi.png)
+![hi there!](hi_.png)
 
 <!--
 ![gnome_settins](gnome.png)
